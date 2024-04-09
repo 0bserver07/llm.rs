@@ -1,0 +1,9 @@
+[package]
+name = "llm-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tch = "0.7.0"
+tiktoken-rs = "0.1.1"
+serde_json = "1.0"
